@@ -32,6 +32,7 @@ Inspired by [this issue](https://github.com/frontendbr/forum/issues/159)
 *General initiatives for students*
 
 * [Dream Spark](https://www.dreamspark.com/)
+* [Education Github](https://education.github.com/pack)
 
 ## Web Services
 *Web Services products for students*
