@@ -8,6 +8,7 @@ Inspired by [this issue](https://github.com/frontendbr/forum/issues/159)
 
 ## Table of Contents
 * [Back-End](#back-end)
+* [IDE](#ide)
 * [Front-End](#front-end)
 * [Workflow](#workflow)
 * [Contributing](#contributing)
@@ -16,6 +17,10 @@ Inspired by [this issue](https://github.com/frontendbr/forum/issues/159)
 ## Back-End
 *Tools for Back-Enders students*
 
+## IDE
+*IDE's for students*
+
+* [Visual Studio Dev Essentials](https://www.visualstudio.com/pt-br/products/visual-studio-dev-essentials-vs.aspx)
 
 ## Front-End
 *Tools for Front-Enders students*
