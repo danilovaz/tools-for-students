@@ -22,6 +22,7 @@ Inspired by [this issue](https://github.com/frontendbr/forum/issues/159)
 ## IDE
 *IDE's for students*
 
+* [Jetbrains](https://www.jetbrains.com/student/)
 * [Visual Studio Dev Essentials](https://www.visualstudio.com/pt-br/products/visual-studio-dev-essentials-vs.aspx)
 
 ## Front-End
