@@ -10,6 +10,7 @@ Inspired by [this issue](https://github.com/frontendbr/forum/issues/159)
 * [Back-End](#back-end)
 * [IDE](#ide)
 * [Front-End](#front-end)
+* [General](#general)
 * [Workflow](#workflow)
 * [Contributing](#contributing)
 * [License](#license)
@@ -24,6 +25,11 @@ Inspired by [this issue](https://github.com/frontendbr/forum/issues/159)
 
 ## Front-End
 *Tools for Front-Enders students*
+
+## General
+*General initiatives for students*
+
+* [Dream Spark](https://www.dreamspark.com/)
 
 ## Workflow
 *Tools for studentes to improve their workflow* :smiley:
