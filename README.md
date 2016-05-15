@@ -11,6 +11,7 @@ Inspired by [this issue](https://github.com/frontendbr/forum/issues/159)
 * [IDE](#ide)
 * [Front-End](#front-end)
 * [General](#general)
+* [Web Services](#web-services)
 * [Workflow](#workflow)
 * [Contributing](#contributing)
 * [License](#license)
@@ -30,6 +31,11 @@ Inspired by [this issue](https://github.com/frontendbr/forum/issues/159)
 *General initiatives for students*
 
 * [Dream Spark](https://www.dreamspark.com/)
+
+## Web Services
+*Web Services products for students*
+
+* [Amazon Web Services](https://aws.amazon.com/pt/education/awseducate/)
 
 ## Workflow
 *Tools for studentes to improve their workflow* :smiley:
